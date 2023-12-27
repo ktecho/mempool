@@ -1543,6 +1543,7 @@
       <trans-unit id="2dd9b8a8997a6b57413ca3cd32dd38cef9fa39c2" datatype="html">
         <source>Project Contributors</source>
         <target>Contribuyentes al proyecto</target>
+        <target>Contribuidores al proyecto</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about.component.html</context>
           <context context-type="linenumber">383</context>
@@ -2425,6 +2426,7 @@
       </trans-unit>
       <trans-unit id="2041675390931385838" datatype="html">
         <source>Health</source>
+        <target>Salud</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/block-health-graph/block-health-graph.component.ts</context>
           <context context-type="linenumber">190</context>
@@ -3072,7 +3074,7 @@
       </trans-unit>
       <trans-unit id="a1c8a44428c774facdd0b1e3ae42468c25666367" datatype="html">
         <source>Subsidy + fees</source>
-        <target>Subsidio + gastos</target>
+        <target>Subsidio + tasas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/block/block.component.html</context>
           <context context-type="linenumber">159</context>
@@ -3108,7 +3110,7 @@
       </trans-unit>
       <trans-unit id="1da6d9283e3222148d76c10c8e37abeeb66c93cb" datatype="html">
         <source>Actual</source>
-        <target>Actua</target>
+        <target>Actual</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/block/block.component.html</context>
           <context context-type="linenumber">224</context>
@@ -3470,6 +3472,7 @@
       </trans-unit>
       <trans-unit id="b7dde2cf8ec2fcd328295c9c7fcc944c4d3720b6" datatype="html">
         <source>Memory Usage</source>
+        <target>Uso de Memoria</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/clock/clock.component.html</context>
           <context context-type="linenumber">65</context>
@@ -4255,6 +4258,7 @@
       </trans-unit>
       <trans-unit id="93ce500c36b94b52219495ae1491efc2fca40cb6" datatype="html">
         <source>Recent Blocks</source>
+        <target>Bloques Recientes</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/mining-dashboard/mining-dashboard.component.html</context>
           <context context-type="linenumber">52</context>
@@ -4829,6 +4833,7 @@
       </trans-unit>
       <trans-unit id="aa28c3afcb8b1a556fc1e1842e48a57f24fd643f" datatype="html">
         <source>Status</source>
+        <target>Estado</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/rbf-timeline/rbf-timeline-tooltip.component.html</context>
           <context context-type="linenumber">33</context>
@@ -5365,7 +5370,7 @@
       </trans-unit>
       <trans-unit id="4e738ef3d2b4878f17f43002204f7b31aabb8e87" datatype="html">
         <source>ETA</source>
-        <target>Tiempo esparado de llegada</target>
+        <target>Tiempo esperado de llegada</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/transaction/transaction.component.html</context>
           <context context-type="linenumber">114</context>
@@ -5639,7 +5644,7 @@
       </trans-unit>
       <trans-unit id="e7699861471f18a60e583512c45d84b388cfa120" datatype="html">
         <source>Previous output type</source>
-        <target>Anterior tipo de salida</target>
+        <target>Tipo de salida anterior</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/transactions-list/transactions-list.component.html</context>
           <context context-type="linenumber">157</context>
@@ -5893,6 +5898,7 @@
       </trans-unit>
       <trans-unit id="4fe744df6d36b5e9b0afab728b77fc635b99f040" datatype="html">
         <source>Recent Replacements</source>
+        <target>Reemplazos Recientes</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/dashboard/dashboard.component.html</context>
           <context context-type="linenumber">79</context>
@@ -5901,6 +5907,7 @@
       </trans-unit>
       <trans-unit id="23c872b0336e20284724607f2887da39bd8142c3" datatype="html">
         <source>Previous fee</source>
+        <target>Tasa anterior</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/dashboard/dashboard.component.html</context>
           <context context-type="linenumber">86</context>
@@ -5909,6 +5916,7 @@
       </trans-unit>
       <trans-unit id="df33bef035883b7afeb388977087f99ab5a54409" datatype="html">
         <source>New fee</source>
+        <target>Nueva tasa</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/dashboard/dashboard.component.html</context>
           <context context-type="linenumber">87</context>
@@ -5917,6 +5925,7 @@
       </trans-unit>
       <trans-unit id="aa6ce7e6e6fe5cd080713965451f25bca15a2a25" datatype="html">
         <source>Recent Transactions</source>
+        <target>Transacciones Recientes</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/dashboard/dashboard.component.html</context>
           <context context-type="linenumber">153</context>
@@ -5954,6 +5963,7 @@
       </trans-unit>
       <trans-unit id="9dfdbeb922d811d7b7b3fecd48360a059e52aaba" datatype="html">
         <source>Incoming Transactions</source>
+        <target>Transacciones Entrantes</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/dashboard/dashboard.component.html</context>
           <context context-type="linenumber">259</context>
@@ -7021,7 +7031,7 @@
       </trans-unit>
       <trans-unit id="2d9883d230a47fbbb2ec969e32a186597ea27405" datatype="html">
         <source>Liquidity Ranking</source>
-        <target>Ranking De Liquidez</target>
+        <target>Ranking de Liquidez</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/lightning/lightning-dashboard/lightning-dashboard.component.html</context>
           <context context-type="linenumber">62</context>
@@ -7042,7 +7052,7 @@
       </trans-unit>
       <trans-unit id="c50bf442cf99f6fc5f8b687c460f33234b879869" datatype="html">
         <source>Connectivity Ranking</source>
-        <target>Ranking De Conectividad</target>
+        <target>Ranking de Conectividad</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/lightning/lightning-dashboard/lightning-dashboard.component.html</context>
           <context context-type="linenumber">76</context>
